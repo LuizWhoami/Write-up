@@ -12,4 +12,6 @@ Os write-ups apresentam metodologias, ferramentas, comandos utilizados e aprendi
 
 ---
 
+### HackTheBox
+
 *Documentação para fins educacionais e desenvolvimento de habilidades em segurança ofensiva.*
